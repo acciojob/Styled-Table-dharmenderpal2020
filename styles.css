@@ -1,1 +1,14 @@
 /* your code */
+table,thead,tbody,tr,td{
+	border:1px;
+	border-style:solid;
+	padding:10px;
+	
+}
+#head{
+	background-color:pink;
+}
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+}
